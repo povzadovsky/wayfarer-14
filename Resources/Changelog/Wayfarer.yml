@@ -3475,3 +3475,16 @@ Entries:
   id: 6893
   time: '2026-05-18T16:04:27.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/903
+- author: stinkiestdog
+  changes:
+    - type: Tweak
+      message: >-
+        Crew manifest now shows if someone is SSD, grouping them in an
+        'Inactive' section at the bottom
+    - type: Tweak
+      message: Crew monitoring console now shows if someone is SSD.
+    - type: Tweak
+      message: Crit implant tracker now shows if someone is SSD.
+  id: 6894
+  time: '2026-05-18T16:04:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/893
