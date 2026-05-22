@@ -3590,3 +3590,10 @@ Entries:
   id: 6906
   time: '2026-05-21T23:12:21.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/952
+- author: VVersengt
+  changes:
+    - type: Tweak
+      message: Solar Flares no longer disable Command, CGP and Medical radio channels.
+  id: 6907
+  time: '2026-05-22T02:05:14.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/941
