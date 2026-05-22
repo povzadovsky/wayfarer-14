@@ -3679,3 +3679,10 @@ Entries:
   id: 6917
   time: '2026-05-22T23:06:33.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/756
+- author: Luweth
+  changes:
+    - type: Fix
+      message: Fixed small eye scars for non-Vox.
+  id: 6918
+  time: '2026-05-22T23:07:21.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/959
