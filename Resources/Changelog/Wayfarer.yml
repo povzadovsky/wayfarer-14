@@ -3739,3 +3739,12 @@ Entries:
   id: 6925
   time: '2026-05-25T19:51:58.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/984
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Nuclear Fabricator research moved a little bit.
+    - type: Tweak
+      message: Nuclear Fabricator components modified to allow for efficiency upgrades.
+  id: 6926
+  time: '2026-05-25T20:40:20.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/981
