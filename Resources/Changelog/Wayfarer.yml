@@ -3796,3 +3796,10 @@ Entries:
   id: 6932
   time: '2026-05-25T21:29:59.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/999
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: More tiles and decals are now available.
+  id: 6933
+  time: '2026-05-25T21:41:49.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/997
