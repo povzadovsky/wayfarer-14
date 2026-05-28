@@ -3982,3 +3982,12 @@ Entries:
   id: 6954
   time: '2026-05-28T23:54:17.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1032
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added the ability to use WF marking system to Vox tails.
+    - type: Fix
+      message: Fixed localization for missing Vox markings to WF standards.
+  id: 6955
+  time: '2026-05-28T23:58:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1033
