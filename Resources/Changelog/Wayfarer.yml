@@ -4056,3 +4056,12 @@ Entries:
   id: 6962
   time: '2026-05-31T17:22:52.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1046
+- author: Erol509
+  changes:
+    - type: Add
+      message: >-
+        Added several new synthetic lizard themed snouts. Some come eyeless, so
+        buy eyes yourself.
+  id: 6963
+  time: '2026-05-31T18:30:54.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1019
