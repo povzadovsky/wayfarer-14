@@ -4115,3 +4115,24 @@ Entries:
   id: 6969
   time: '2026-06-01T01:56:10.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1061
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added Aurelian medical changes to regular Vox.
+    - type: Tweak
+      message: Vox claws deal one more point of damage.
+    - type: Tweak
+      message: Vox recover poison at a slightly better threshold.
+    - type: Fix
+      message: Fixed Ammonia being partially setup to do stuff with Vox.
+    - type: Add
+      message: Vox guide refresh for new changes. Matches Aurelian in format better.
+    - type: Add
+      message: Added recipes for diluted ammonia blood to be centrifuged and stirred.
+    - type: Fix
+      message: Fixed Avali body parts giving the wrong types of blood when grinded.
+    - type: Fix
+      message: Fixed Avali being poisoned from ammonia gas.
+  id: 6970
+  time: '2026-06-01T02:12:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1053
