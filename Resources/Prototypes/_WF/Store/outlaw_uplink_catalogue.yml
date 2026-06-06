@@ -1388,7 +1388,7 @@
       tags:
       - OutlawUplinkBase
 
-# Syndie Card
+# Business Card
 - type: listing
   id: UplinkOutlawSyndicateBusinessCard
   name: uplink-outlaw-card-name
@@ -1399,6 +1399,8 @@
   categories:
   - UplinkOutlawMisc
   conditions:
+  - !type:ListingLimitedStockCondition
+    stock: 10
   - !type:StoreWhitelistCondition
     whitelist:
       tags:
