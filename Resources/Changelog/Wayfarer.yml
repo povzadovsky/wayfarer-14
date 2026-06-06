@@ -4328,3 +4328,12 @@ Entries:
   id: 6995
   time: '2026-06-06T10:27:44.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1106
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: >-
+        Ship naming prefix system was fixed. Praise be the properly formatted
+        names.
+  id: 6996
+  time: '2026-06-06T21:06:48.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1102
