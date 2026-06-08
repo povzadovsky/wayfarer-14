@@ -4404,3 +4404,14 @@ Entries:
   id: 7005
   time: '2026-06-08T02:41:11.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1112
+- author: RoY7x
+  changes:
+    - type: Add
+      message: New racing buoy's for shuttle grand prix
+    - type: Tweak
+      message: >-
+        Adjusted mooring buoy price to what it should have been for the ship
+        standards.
+  id: 7006
+  time: '2026-06-08T02:42:24.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1057
