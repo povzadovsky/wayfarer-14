@@ -4376,3 +4376,10 @@ Entries:
   id: 7001
   time: '2026-06-08T02:30:44.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1130
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Fixed an unpowered thruster in the Takeaway shuttle.
+  id: 7002
+  time: '2026-06-08T02:31:28.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1128
