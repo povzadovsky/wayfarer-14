@@ -4512,3 +4512,10 @@ Entries:
   id: 7019
   time: '2026-06-09T20:01:27.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1113
+- author: VVersengt
+  changes:
+    - type: Remove
+      message: Removed cash conversion from Outlaw uplink.
+  id: 7020
+  time: '2026-06-09T21:37:44.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1144
