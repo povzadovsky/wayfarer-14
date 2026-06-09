@@ -4496,3 +4496,10 @@ Entries:
   id: 7017
   time: '2026-06-09T19:59:21.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1140
+- author: Goodfaun
+  changes:
+    - type: Tweak
+      message: writing guidebook mention form and fields
+  id: 7018
+  time: '2026-06-09T20:00:42.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1116
